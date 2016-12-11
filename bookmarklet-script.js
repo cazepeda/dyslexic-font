@@ -1,0 +1,1 @@
+javascript:(function()%7Bvar%20s=document.createElement('link');s.setAttribute('href','//domain.com/styles.css');s.setAttribute('rel','stylesheet');s.setAttribute('type','text/css');document.getElementsByTagName('head')%5B0%5D.appendChild(s);%7D)();
