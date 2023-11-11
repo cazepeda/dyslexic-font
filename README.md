@@ -1,2 +1,2 @@
 # dyslexic-font
-A stylesheet to embed via a bookmarklet.
+A stylesheet that styles your page using the dyslexic font and applies contrast background colors.
